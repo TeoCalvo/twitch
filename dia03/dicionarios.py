@@ -13,3 +13,19 @@ novo_dict = { "nome": "Natalia",
 
 familia = { "teo": meu_dict,
             "nah":novo_dict }
+
+
+pessoas = {
+    "teo":{
+        "nome": "Teodoro",
+        "sobrenome": "Calvo",
+        "idade": 27,
+        "hobbies": ["games", "leitura técnica", "séries"]
+    },
+    "nah":{
+        "nome":"Natalia",
+        "sobrenome":"Ataide",
+        "idade":29,
+        "hobbies": ["costura", "series", "filmes"]
+    }
+}

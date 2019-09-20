@@ -1,5 +1,8 @@
-def f( x ):
-    return x ** 2
+def nome_funcao( argumento1, argumento2="teste", *args ):
+    print(argumento1)
+    print(argumento2)
+    print(args)
+    return sum(args)
 
 def caixa_alta( txt ):
     return txt.upper()

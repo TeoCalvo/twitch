@@ -2,20 +2,16 @@
 x = 10 # x é um inteiro
 
 # Comparando x com 10
-x == 10
+x == 11
 
 # Comparando x com 10
 x >= 10
 
 #x < "10"  dá pal!
 
-x = 9
-if x == 10:
-    print("Sim, seu x é igual a 10")
-    print("Pode continuar com seu programa!")
+x = 12
+if 10 <= x <= 15:
+    print("X está entre 10 e 15")
 
-elif x < 10:
-    print("Muito baixo!")
-
-else:
-    print("Muito alto!")
+elif x<10 or x>15:
+    print("X esta fora dos limites")
