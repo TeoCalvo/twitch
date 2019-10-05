@@ -1,0 +1,28 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="caudas <= 1.5\ngini = 0.681\nsamples = 12\nvalue = [1, 2, 5, 4]\nclass = y[2]"] ;
+1 [label="nucleos <= 1.5\ngini = 0.408\nsamples = 7\nvalue = [0, 0, 5, 2]\nclass = y[2]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 4, 0]\nclass = y[2]"] ;
+1 -> 2 ;
+3 [label="cod_Escura <= 0.5\ngini = 0.444\nsamples = 3\nvalue = [0, 0, 1, 2]\nclass = y[3]"] ;
+1 -> 3 ;
+4 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 1, 0]\nclass = y[2]"] ;
+3 -> 4 ;
+5 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 2]\nclass = y[3]"] ;
+3 -> 5 ;
+6 [label="nucleos <= 1.5\ngini = 0.64\nsamples = 5\nvalue = [1, 2, 0, 2]\nclass = y[1]"] ;
+0 -> 6 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+7 [label="gini = 0.0\nsamples = 2\nvalue = [0, 0, 0, 2]\nclass = y[3]"] ;
+6 -> 7 ;
+8 [label="membrana_Grossa <= 0.5\ngini = 0.444\nsamples = 3\nvalue = [1, 2, 0, 0]\nclass = y[1]"] ;
+6 -> 8 ;
+9 [label="cod_Escura <= 0.5\ngini = 0.5\nsamples = 2\nvalue = [1, 1, 0, 0]\nclass = y[0]"] ;
+8 -> 9 ;
+10 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0]\nclass = y[1]"] ;
+9 -> 10 ;
+11 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0, 0]\nclass = y[0]"] ;
+9 -> 11 ;
+12 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0, 0]\nclass = y[1]"] ;
+8 -> 12 ;
+}
