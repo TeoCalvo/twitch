@@ -1,0 +1,13 @@
+id;nucleos;caudas;cor;membrana;classe
+1;1;1;Clara;Fina;Lethargia
+2;2;1;Clara;Fina;Lethargia
+3;1;1;Clara;Grossa;Lethargia
+4;1;1;Escura;Fina;Lethargia
+5;1;1;Escura;Grossa;Lethargia
+6;2;2;Escura;Fina;Burpona
+7;2;2;Clara;Fina;Burpona
+8;2;2;Escura;Grossa;Burpona
+9;2;1;Escura;Fina;Saudável
+10;2;1;Escura;Grossa;Saudável
+11;1;2;Clara;Fina;Saudável
+12;1;2;Clara;Grossa;Saudável
