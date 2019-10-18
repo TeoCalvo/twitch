@@ -1,6 +1,6 @@
 {
-    "python.pythonPath": "/home/teo/Downloads/anaconda/envs/teo-env/bin/python",
+    "python.pythonPath": "/home/teo/anaconda3/envs/teo-env/bin/python",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.linting.pep8Enabled": false
+    "python.linting.pycodestyleEnabled": false
 }
