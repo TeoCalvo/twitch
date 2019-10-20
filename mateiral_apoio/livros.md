@@ -30,6 +30,16 @@
 
 [Introdução ao Mongodb](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-ao-Mongodb-David-Hows/dp/8575224220/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=introdu%C3%A7%C3%A3o+ao+mongodb&qid=1570313994&sr=8-1)
 
+## Projetos e Equipes
+
+[O projeto fênix](https://www.amazon.com.br/projeto-f%C3%AAnix-Gene-Kim/dp/8550801895/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=devops&qid=1571593894&s=books&sr=1-2)
+
+[Manual de Devops. Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas](https://www.amazon.com.br/Agilidade-Confiabilidade-Seguran%C3%A7a-Organiza%C3%A7%C3%B5es-Tecnol%C3%B3gicas/dp/8550802697/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=devops&qid=1571593894&s=books&sr=1-1)
+
+[O Mítico Homem-Mês. Ensaios Sobre Engenharia de Software](https://www.amazon.com.br/M%C3%ADtico-Homem-M%C3%AAs-Ensaios-Engenharia-Software/dp/8550802530/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WJ2NK0APKSDF&keywords=mitico+homem+mes&qid=1571593976&s=books&sprefix=mitico+hom%2Cstripbooks%2C271&sr=1-1)
+
+[Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias](https://www.amazon.com.br/Sprint-M%C3%A9todo-Google-Testar-Aplicar/dp/8551001523/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=sprint&qid=1571594027&s=books&smid=A18CNA8NWQSYHH&sr=1-1)
+
 ## Utilitários
 
 [Introdução às Expressões Regulares](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Express%C3%B5es-Regulares-Michael-Fitzgerald/dp/8575223305/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=regex&qid=1570313670&sr=8-2)
