@@ -18,6 +18,8 @@
 ## Programação
 [Data Science do Zero](https://www.amazon.com.br/Data-Science-zero-Joel-Grus/dp/857608998X/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python+introdu%C3%A7%C3%A3o+abordagem&qid=1570312120&sr=8-4)
 
+[Use a cabeça! Programação](https://www.amazon.com.br/Use-cabe%C3%A7a-Programa%C3%A7%C3%A3o-Paul-Barry/dp/8576084732/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=212N7L75958QF&keywords=use+a+cabe%C3%A7a+programa%C3%A7%C3%A3o&qid=1571594374&sprefix=use+a+cabe%C3%A7a+pro%2Caps%2C298&sr=8-1)
+
 [Programação Python 3](https://www.amazon.com.br/Programa%C3%A7%C3%A3o-em-Python-Mark-Summerfield/dp/8576083841/ref=sr_1_48?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python&qid=1570312294&sr=8-48)
 
 [Python Para Desenvolvedores](https://www.amazon.com.br/Python-Para-Desenvolvedores-Eduardo-Borges/dp/8575224050/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python+para+desenvolvedores&qid=1570313599&sr=8-1)
