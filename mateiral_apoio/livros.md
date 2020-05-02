@@ -11,9 +11,13 @@
 
 [Análise de Sobrevivência Aplicada ](https://www.amazon.com.br/An%C3%A1lise-Sobreviv%C3%AAncia-Aplicada-Ant%C3%B4nio-Colosimo/dp/8521203845/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=An%C3%A1lise+de+sobrevivencia&qid=1570313561&sr=8-1)
 
-## Modelagem
+## Machine Learning
 
 [Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina](https://www.amazon.com.br/Inteligência-Artificial-Abordagem-Aprendizado-Máquina/dp/8521618808/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=abordagem+de+aprendixzado+de+máquina&qid=1570312349&sr=8-1-spell)
+
+[Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](https://www.amazon.com.br/M%C3%A3os-Obra-Aprendizado-Scikit-Learn-TensorFlow/dp/8550803812/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=machine+learning&qid=1588452787&sr=8-1)
+
+[Machine Learning – Guia de Referência Rápida: Trabalhando com dados estruturados em Python](https://www.amazon.com.br/Machine-Learning-Refer%C3%AAncia-Trabalhando-estruturados-ebook/dp/B08255K2ZQ/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=machine+learning&qid=1588452787&sr=8-3)
 
 ## Programação
 [Data Science do Zero](https://www.amazon.com.br/Data-Science-zero-Joel-Grus/dp/857608998X/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python+introdu%C3%A7%C3%A3o+abordagem&qid=1570312120&sr=8-4)
